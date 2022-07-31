@@ -1,6 +1,3 @@
-###
-#Olá✌️
-
 - 📚 Sou estudante na UNIP em Análise de desenvolvimento de sistemas
 - 🔎 Atualmente estou estudando Desenvolvimento Web
 - 🏖️ Gosto de assistir anime e sou apaixonado por futebol..."Barcelona ❤️"
