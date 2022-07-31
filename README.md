@@ -2,12 +2,11 @@
 - 🔎 Atualmente estou estudando Desenvolvimento Web
 - 🏖️ Gosto de assistir anime e sou apaixonado por futebol..."Barcelona ❤️"
 - 🖥️ Possuo muita força de vontade e grande ambição, estou em busca do meu primeiro trabalho na área de tecnologia.
-- ⌨️ Conheciemnto em: #CSS || # HTML5 || JAVASCRIPT
 
 <div>
    <a href="https://github.com/LuucasDaFe">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuucasDaFe&theme=dark&show_icons=true">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasDaFe&layout=compact&langs_count=7&theme=dark&show"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuucasDaFe&theme=tokyonight&show_icons=true">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasDaFe&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
