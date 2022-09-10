@@ -1,5 +1,5 @@
-- 📚 Sou estudante na UNIP em Análise de desenvolvimento de sistemas
-- 🔎 Atualmente estou estudando Desenvolvimento Web
+- 📚 Sou estudante na UNIP em Análise de desenvolvimento de sistemas.
+- 🔎 Atualmente estou estudando Desenvolvimento Web.
 - 🖥️ Possuo muita força de vontade e grande ambição, estou em busca do meu primeiro trabalho na área de tecnologia.
 
 <div>
