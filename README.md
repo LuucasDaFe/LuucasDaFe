@@ -2,10 +2,10 @@
 - 🔎 Atualmente estou estudando Desenvolvimento Web.
 - 🖥️ Possuo muita força de vontade e grande ambição, estou em busca do meu primeiro trabalho na área de tecnologia.
 
-<div>
-   <a href="https://github.com/LuucasDaFe">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuucasDaFe&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasDaFe&layout=compact&langs_count=7&theme=highcontrast"/>
+<div align="center">
+  <a href="https://github.com/LuucasDaFe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuucasDaFe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasDaFe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
