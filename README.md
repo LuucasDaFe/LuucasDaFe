@@ -2,12 +2,13 @@
 - 🔎 Atualmente estou estudando Desenvolvimento Web.
 - 🖥️ Possuo muita força de vontade e grande ambição, estou em busca do meu primeiro trabalho na área de tecnologia.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/LuucasDaFe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuucasDaFe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasDaFe&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LuucasDaFe"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuucasDaFe&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasDaFe&layout=compact&langs_count=7&theme=highcontrast"/>    
 </div>
+    
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasDaFe&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
