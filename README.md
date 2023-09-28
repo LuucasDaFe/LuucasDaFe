@@ -4,10 +4,10 @@
 
 <div align="left">
   <a href="https://github.com/LuucasDaFe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuucasDaFe&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuucasDaFe&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuucasDaFe&layout=compact&langs_count=7&theme=highcontrast"/>    
 </div>
-    
+ 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasDaFe&layout=compact&langscount=7&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block"><br>
